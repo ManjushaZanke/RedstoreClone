@@ -1,4 +1,2 @@
-"# RedstoreClone" 
-![alt_text]()
-"# RedstoreClone" 
-"# RedstoreClone" 
+
+![alt_text](https://github.com/ManjushaZanke/RedstoreClone/blob/main/images/redstore.png)
